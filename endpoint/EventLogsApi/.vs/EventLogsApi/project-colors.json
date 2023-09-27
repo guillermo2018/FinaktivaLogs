@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8eaf3077-3c73-4d11-bf42-2b79b69ca1f8": {
+      "ProjectGuid": "8eaf3077-3c73-4d11-bf42-2b79b69ca1f8",
+      "DisplayName": "EventLogsApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
