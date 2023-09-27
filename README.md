@@ -41,6 +41,8 @@ Asegúrate de que el proyecto de API esté configurado como el proyecto de inici
 Ejecuta la aplicación para iniciar la API en https://localhost:7251.
 
 3. Configura la aplicación Angular:
+   
+Extraiga el archivo Frontend (Angular).zip 
 
 Abre una terminal en la carpeta ClientApp dentro del proyecto.
 
